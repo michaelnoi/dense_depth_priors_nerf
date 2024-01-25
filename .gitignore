@@ -127,3 +127,6 @@ dmypy.json
 
 # ide
 .vscode/
+
+checkpoints/
+nerf_checkpoints/
